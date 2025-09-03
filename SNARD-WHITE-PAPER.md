@@ -14,7 +14,7 @@ With a fixed supply of **1,000,000,000 SNARD**, the token provides scarcity, tra
 
 * **Total Supply:** 1,000,000,000 SNARD (fixed, no inflation)
 
-### Adjusted Distribution Model
+- Adjusted Distribution Model
 
 * **Community Giveaway (5%)** – **50M SNARD** distributed to Garlip users. Each **£10 subscription** earns **5,000 SNARD**, capped at **50M** in total. This ensures strong early adoption while preserving supply for future apps.
 * **Public Sale (35%)** – 350M SNARD offered via token sale events.
