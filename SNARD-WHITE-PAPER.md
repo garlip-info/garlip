@@ -1,5 +1,3 @@
-
-
 # Snard Token White Paper
 
 ## 1. Introduction
