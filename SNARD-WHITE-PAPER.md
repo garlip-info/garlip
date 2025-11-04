@@ -14,11 +14,10 @@ With a fixed supply of **1,000,000,000 SNARD**, the token provides scarcity, tra
 
 - Adjusted Distribution Model
 
-* **Community Giveaway (5%)** – **50M SNARD** distributed to Garlip users. Each **£10 subscription** earns **5,000 SNARD**, capped at **50M** in total. This ensures strong early adoption while preserving supply for future apps.
 * **Public Sale (35%)** – 350M SNARD offered via token sale events.
 * **Team (20%)** – 200M SNARD, vested over 3 years.
 * **Reserve (20%)** – 200M SNARD for liquidity, partnerships, and stability.
-* **Ecosystem Incentives (12.5%)** – 125M SNARD for creators, developers, validators, and community activities.
+* **Ecosystem Incentives (17.5%)** – 125M SNARD for creators, developers, validators, and community activities.
 * **Marketing & Community (5%)** – 50M SNARD for campaigns and adoption growth.
 * **Advisors & Partners (2.5%)** – 25M SNARD under lockup.
 
