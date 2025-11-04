@@ -71,9 +71,9 @@ This ensures that Snard’s utility scales with the ecosystem, not just one plat
 
 ## 7. Roadmap
 
-* **Q1 2026:** Garlip Launch + Snard Airdrop (capped at 50M).
+* **Q1 2026:** Garlip Launch + Snard Airdrop.
 * **Q2 2026:** Public Token Sale, Listings.
-* **Q3 2026:** New App Launch with Snard integration.
+* **Q2 2026:** app.Garlip.com Launch with Snard integration.
 * **2027:** Governance activation, staking pools, marketplace expansion.
 * **Beyond:** Continuous app integrations into the Snard economy.
 
